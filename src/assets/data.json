@@ -1,0 +1,482 @@
+[
+  {
+    "age": 0,
+    "yearsLeft": 77.27
+  },
+  {
+    "age": 1,
+    "yearsLeft": 76.71
+  },
+  {
+    "age": 2,
+    "yearsLeft": 75.74
+  },
+  {
+    "age": 3,
+    "yearsLeft": 74.76
+  },
+  {
+    "age": 4,
+    "yearsLeft": 73.77
+  },
+  {
+    "age": 5,
+    "yearsLeft": 72.79
+  },
+  {
+    "age": 6,
+    "yearsLeft": 71.8
+  },
+  {
+    "age": 7,
+    "yearsLeft": 70.81
+  },
+  {
+    "age": 8,
+    "yearsLeft": 69.81
+  },
+  {
+    "age": 9,
+    "yearsLeft": 68.82
+  },
+  {
+    "age": 10,
+    "yearsLeft": 67.83
+  },
+  {
+    "age": 11,
+    "yearsLeft": 66.83
+  },
+  {
+    "age": 12,
+    "yearsLeft": 65.84
+  },
+  {
+    "age": 13,
+    "yearsLeft": 64.84
+  },
+  {
+    "age": 14,
+    "yearsLeft": 63.86
+  },
+  {
+    "age": 15,
+    "yearsLeft": 62.87
+  },
+  {
+    "age": 16,
+    "yearsLeft": 61.89
+  },
+  {
+    "age": 17,
+    "yearsLeft": 60.92
+  },
+  {
+    "age": 18,
+    "yearsLeft": 59.95
+  },
+  {
+    "age": 19,
+    "yearsLeft": 58.99
+  },
+  {
+    "age": 20,
+    "yearsLeft": 58.03
+  },
+  {
+    "age": 21,
+    "yearsLeft": 57.08
+  },
+  {
+    "age": 22,
+    "yearsLeft": 56.14
+  },
+  {
+    "age": 23,
+    "yearsLeft": 55.2
+  },
+  {
+    "age": 24,
+    "yearsLeft": 54.27
+  },
+  {
+    "age": 25,
+    "yearsLeft": 53.34
+  },
+  {
+    "age": 26,
+    "yearsLeft": 52.4
+  },
+  {
+    "age": 27,
+    "yearsLeft": 51.47
+  },
+  {
+    "age": 28,
+    "yearsLeft": 50.54
+  },
+  {
+    "age": 29,
+    "yearsLeft": 49.6
+  },
+  {
+    "age": 30,
+    "yearsLeft": 48.67
+  },
+  {
+    "age": 31,
+    "yearsLeft": 47.74
+  },
+  {
+    "age": 32,
+    "yearsLeft": 46.81
+  },
+  {
+    "age": 33,
+    "yearsLeft": 45.88
+  },
+  {
+    "age": 34,
+    "yearsLeft": 44.95
+  },
+  {
+    "age": 35,
+    "yearsLeft": 44.02
+  },
+  {
+    "age": 36,
+    "yearsLeft": 43.09
+  },
+  {
+    "age": 37,
+    "yearsLeft": 42.16
+  },
+  {
+    "age": 38,
+    "yearsLeft": 41.23
+  },
+  {
+    "age": 39,
+    "yearsLeft": 40.3
+  },
+  {
+    "age": 40,
+    "yearsLeft": 39.38
+  },
+  {
+    "age": 41,
+    "yearsLeft": 38.45
+  },
+  {
+    "age": 42,
+    "yearsLeft": 37.52
+  },
+  {
+    "age": 43,
+    "yearsLeft": 36.6
+  },
+  {
+    "age": 44,
+    "yearsLeft": 35.69
+  },
+  {
+    "age": 45,
+    "yearsLeft": 34.78
+  },
+  {
+    "age": 46,
+    "yearsLeft": 33.88
+  },
+  {
+    "age": 47,
+    "yearsLeft": 32.98
+  },
+  {
+    "age": 48,
+    "yearsLeft": 32.1
+  },
+  {
+    "age": 49,
+    "yearsLeft": 31.22
+  },
+  {
+    "age": 50,
+    "yearsLeft": 30.35
+  },
+  {
+    "age": 51,
+    "yearsLeft": 29.49
+  },
+  {
+    "age": 52,
+    "yearsLeft": 28.64
+  },
+  {
+    "age": 53,
+    "yearsLeft": 27.8
+  },
+  {
+    "age": 54,
+    "yearsLeft": 26.97
+  },
+  {
+    "age": 55,
+    "yearsLeft": 26.15
+  },
+  {
+    "age": 56,
+    "yearsLeft": 25.34
+  },
+  {
+    "age": 57,
+    "yearsLeft": 24.55
+  },
+  {
+    "age": 58,
+    "yearsLeft": 23.77
+  },
+  {
+    "age": 59,
+    "yearsLeft": 22.99
+  },
+  {
+    "age": 60,
+    "yearsLeft": 22.22
+  },
+  {
+    "age": 61,
+    "yearsLeft": 21.45
+  },
+  {
+    "age": 62,
+    "yearsLeft": 20.69
+  },
+  {
+    "age": 63,
+    "yearsLeft": 19.93
+  },
+  {
+    "age": 64,
+    "yearsLeft": 19.18
+  },
+  {
+    "age": 65,
+    "yearsLeft": 18.43
+  },
+  {
+    "age": 66,
+    "yearsLeft": 17.7
+  },
+  {
+    "age": 67,
+    "yearsLeft": 16.97
+  },
+  {
+    "age": 68,
+    "yearsLeft": 16.25
+  },
+  {
+    "age": 69,
+    "yearsLeft": 15.54
+  },
+  {
+    "age": 70,
+    "yearsLeft": 14.84
+  },
+  {
+    "age": 71,
+    "yearsLeft": 14.15
+  },
+  {
+    "age": 72,
+    "yearsLeft": 13.48
+  },
+  {
+    "age": 73,
+    "yearsLeft": 12.81
+  },
+  {
+    "age": 74,
+    "yearsLeft": 12.16
+  },
+  {
+    "age": 75,
+    "yearsLeft": 11.52
+  },
+  {
+    "age": 76,
+    "yearsLeft": 10.9
+  },
+  {
+    "age": 77,
+    "yearsLeft": 10.29
+  },
+  {
+    "age": 78,
+    "yearsLeft": 9.7
+  },
+  {
+    "age": 79,
+    "yearsLeft": 9.13
+  },
+  {
+    "age": 80,
+    "yearsLeft": 8.58
+  },
+  {
+    "age": 81,
+    "yearsLeft": 8.04
+  },
+  {
+    "age": 82,
+    "yearsLeft": 7.52
+  },
+  {
+    "age": 83,
+    "yearsLeft": 7.03
+  },
+  {
+    "age": 84,
+    "yearsLeft": 6.56
+  },
+  {
+    "age": 85,
+    "yearsLeft": 6.12
+  },
+  {
+    "age": 86,
+    "yearsLeft": 5.69
+  },
+  {
+    "age": 87,
+    "yearsLeft": 5.29
+  },
+  {
+    "age": 88,
+    "yearsLeft": 4.92
+  },
+  {
+    "age": 89,
+    "yearsLeft": 4.57
+  },
+  {
+    "age": 90,
+    "yearsLeft": 4.24
+  },
+  {
+    "age": 91,
+    "yearsLeft": 3.94
+  },
+  {
+    "age": 92,
+    "yearsLeft": 3.66
+  },
+  {
+    "age": 93,
+    "yearsLeft": 3.41
+  },
+  {
+    "age": 94,
+    "yearsLeft": 3.18
+  },
+  {
+    "age": 95,
+    "yearsLeft": 2.98
+  },
+  {
+    "age": 96,
+    "yearsLeft": 2.81
+  },
+  {
+    "age": 97,
+    "yearsLeft": 2.65
+  },
+  {
+    "age": 98,
+    "yearsLeft": 2.51
+  },
+  {
+    "age": 99,
+    "yearsLeft": 2.38
+  },
+  {
+    "age": 100,
+    "yearsLeft": 2.26
+  },
+  {
+    "age": 101,
+    "yearsLeft": 2.14
+  },
+  {
+    "age": 102,
+    "yearsLeft": 2.03
+  },
+  {
+    "age": 103,
+    "yearsLeft": 1.92
+  },
+  {
+    "age": 104,
+    "yearsLeft": 1.82
+  },
+  {
+    "age": 105,
+    "yearsLeft": 1.72
+  },
+  {
+    "age": 106,
+    "yearsLeft": 1.62
+  },
+  {
+    "age": 107,
+    "yearsLeft": 1.53
+  },
+  {
+    "age": 108,
+    "yearsLeft": 1.44
+  },
+  {
+    "age": 109,
+    "yearsLeft": 1.35
+  },
+  {
+    "age": 110,
+    "yearsLeft": 1.27
+  },
+  {
+    "age": 111,
+    "yearsLeft": 1.19
+  },
+  {
+    "age": 112,
+    "yearsLeft": 1.12
+  },
+  {
+    "age": 113,
+    "yearsLeft": 1.05
+  },
+  {
+    "age": 114,
+    "yearsLeft": 0.98
+  },
+  {
+    "age": 115,
+    "yearsLeft": 0.91
+  },
+  {
+    "age": 116,
+    "yearsLeft": 0.85
+  },
+  {
+    "age": 117,
+    "yearsLeft": 0.79
+  },
+  {
+    "age": 118,
+    "yearsLeft": 0.73
+  },
+  {
+    "age": 119,
+    "yearsLeft": 0.68
+  }
+]

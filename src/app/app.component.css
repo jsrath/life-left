@@ -1,0 +1,38 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+}
+
+h1, h2, h3 {
+  color: #3F51B5;
+  font-weight: 400;
+}
+
+h4 {
+  color: #3F51B5;
+  font-weight: 400;
+  font-style: italic;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.gender, .excercise {
+  margin-top: 35px;
+}
+
+.question {
+  padding: 0;
+  margin: 0;
+}
+
+mat-radio-button {
+  margin-right: 20px;
+}
+
+mat-progress-bar {
+  height: 30px;
+  width: 60%;
+  margin: 10px 0 40px;
+}

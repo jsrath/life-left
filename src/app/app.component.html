@@ -1,0 +1,75 @@
+<mat-card class="container">
+  <h1>Life Left</h1>
+  <h4>How Much Life Do I Have Left?</h4>
+  <mat-divider [inset]="true"></mat-divider>
+  <mat-vertical-stepper #stepper linear>
+
+    <mat-step [stepControl]="birthday">
+      <form [formGroup]="birthday">
+        <ng-template matStepLabel>Select or Enter Your Birthday</ng-template>
+        <mat-form-field>
+          <input matInput required [matDatepicker]="picker" formControlName="birthdayDate" placeholder="MM/DD/YYYY">
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+
+        <div>
+          <button matStepperNext mat-stroked-button color="primary">Next</button>
+        </div>
+
+      </form>
+    </mat-step>
+
+    <mat-step [stepControl]="gender">
+      <form [formGroup]="gender">
+        <ng-template matStepLabel>Select Your Gender</ng-template>
+        <mat-radio-group formControlName="genderSelect">
+          <mat-radio-button value="Male">Male</mat-radio-button>
+          <mat-radio-button value="Female">Female</mat-radio-button>
+        </mat-radio-group>
+
+        <div class="gender">
+          <button matStepperPrevious mat-stroked-button color="primary">Back</button>
+          <button matStepperNext mat-stroked-button color="primary">Next</button>
+        </div>
+
+      </form>
+    </mat-step>
+
+    <mat-step>
+      <form [formGroup]="excercise">
+        <ng-template matStepLabel>Select Your Excercise Level</ng-template>
+        <mat-list>
+          <h2 class="question" mat-subheader>How Often Do You Excercise Per Week?</h2>
+          <mat-radio-group formControlName="excerciseSelect">
+            <mat-radio-button value="0">Never</mat-radio-button>
+            <mat-radio-button value="1">Once</mat-radio-button>
+            <mat-radio-button value="2">Twice</mat-radio-button>
+            <mat-radio-button value="3">3+ Times</mat-radio-button>
+          </mat-radio-group>
+        </mat-list>
+        <div class="excercise">
+          <button matStepperPrevious mat-stroked-button color="primary">Back</button>
+          <button mat-stroked-button color="primary" (click)="stepper.reset()">Reset</button>
+          <button mat-flat-button color="primary" (click)="onSubmit()">Finished</button>
+        </div>
+      </form>
+    </mat-step>
+  </mat-vertical-stepper>
+  <div *ngIf="remainingYears">
+    <mat-divider [inset]="true"></mat-divider>
+    <h2>Your Life is {{percentageLived | number:'1.0-0'}}% Finished.</h2>
+    <mat-progress-bar mode="determinate" [value]="percentageLived"></mat-progress-bar>
+
+    <h3>
+      <mat-icon color="primary">calendar_today</mat-icon> You have <strong>{{months | number:'1.0-0'}}</strong> months
+      left.
+    </h3>
+    <h3>
+      <mat-icon>today</mat-icon> You have <strong>{{days | number:'1.0-0'}}</strong> days left.
+    </h3>
+    <h3>
+      <mat-icon>access_time</mat-icon> You have <strong>{{hours | number:'1.0-0'}}</strong> hours left.
+    </h3>
+  </div>
+</mat-card>
