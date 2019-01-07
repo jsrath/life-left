@@ -1,27 +1,38 @@
-# LifeLeft
+<p align="center">
+  <img alt="Life Left Screenshot" src="./screenshot.jpg" width="800" />
+</p>
+<p align="center">
+  <a href="#">
+    <img alt="Build Passing" src="https://img.shields.io/badge/build-passing-brightgreen.svg" />
+  </a>
+  <a href="#">
+    <img alt="Typescript 2.0" src="https://img.shields.io/badge/typescript-2.0-blue.svg" />
+  </a>
+  <a href="#">
+    <img alt="Built with Angular" src="https://img.shields.io/badge/built%20with-angular-green.svg" />
+  </a>
+</p>
+<hr>
+<h1 align="center">Life Left</h1>
+<h4 align="center">Find out how much life you have left with this interactive calculator.</h4>
+<h3 align="center"><a href="https://projects.jsrath.com/life-left">LIVE SITE</a></h3>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+Life Left utilizes Angular, Angular Material and Moment.js to calculate your statistical death date using actuarial tables from the US Social Security Administration. 
 
-## Development server
+Enter your information and see how much longer you have!
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Installation
 
-## Code scaffolding
+```sh
+git clone https://github.com/jsrath/life-left.git
+npm install 
+ng serve
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## License
 
-## Build
+> The MIT License (MIT)<br/> Copyright © 2019 JS Rath <br/> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <br/>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. <br/> The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+---
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Created and maintained by [JS Rath](http://www.jsrath.com).
